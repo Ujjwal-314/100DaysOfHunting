@@ -6,6 +6,7 @@
 - 9:30 - 2:45 - explored the application, and read summary of http requests by grok
 - 3:35 - 4:25 - username enu via account lock portswigger lab
 - went to teach kids, after that nothing much, which again i regret.
+- after coming from teaching, i again scrolled reels/shorts for about 2 hr.
 
 # What i learnt?
 
