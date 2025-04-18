@@ -27,4 +27,10 @@ Then i also revisited CSS inline vs block on ODIN Project, and solved few exerci
 
 - First few hours trying to understand more about that web application.
 - Then I will be start to learn XSS from portswigger, as i feel it would be really difficult to find authentication/access control vulnerabilities on this web application(its just my opinion and not any hardcore truth), and anyhow i have to learn that today or later.
+
 - And finally, I will continue to solve the last exercise on inline & block exercise, and add a little bit of css in odin-recipes project on github.
+
+# Edit1:
+After completing my studies at 12:00 yesterday, i was about to go to sleep, but i thought of installing instagram, and see few updates, and opened reels, and 1.5 hrs passed like a snap.
+Now i feel like constantly trying to stop this, wont help, rather i have to improve my work ethich, and it will automatically improve that, atleast I hope so.
+I am sharing all this, just to be really honest with myself, and properly accountable, and not lying anywhere.
